@@ -28,6 +28,7 @@ EDA on retail_sales_dataset Task-1.ipynb
 
 retail_sales_dataset.csv
 
+
 ✅ Task 2: Data Cleaning
 
 Cleaned and processed a real-world dataset
@@ -40,6 +41,7 @@ Files included:
 Data Cleaning Task-2.ipynb
 
 AB_NYC_2019.csv
+
 
 ✅ Task 3: Predicting House Prices (Linear Regression)
 
@@ -56,6 +58,7 @@ Predicting House Prices with Linear Regression-Task3.ipynb
 
 Housing.csv
 
+
 ✅ Task 4: Wine Quality Prediction
 
 Applied ML classification techniques
@@ -71,12 +74,14 @@ Wine Quality Prediction - Task-4.ipynb
 
 WineQT.csv
 
+
 📁 Folder Structure
 
 Task-1 (EDA on retail sales)
 Task-2 (Data Cleaning)
 Task-3 (House Price Prediction)
 Task-4 (Wine Quality Prediction)
+
 
 🌟 About the Internship
 
