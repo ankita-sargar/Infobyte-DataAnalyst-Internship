@@ -12,7 +12,7 @@ Scikit-Learn
 Jupyter Notebook
 
 - Tasks Overview
-- 
+  
 ✅ Task 1: EDA on Retail Sales Dataset
 
 Performed Exploratory Data Analysis on retail dataset
